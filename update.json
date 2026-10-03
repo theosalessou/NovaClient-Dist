@@ -1,10 +1,10 @@
 [
   {
-    "server": true,
     "client": true,
-    "package": "NovaClient-2.0.0-beta.18-win64.zip",
-    "version": "2.0.0-beta.18",
-    "remove": [],
-    "download": []
+    "server": true,
+    "package": "NovaClient-2.0.0-beta.19-win64.zip",
+    "version": "2.0.0-beta.19",
+    "download": [],
+    "remove": []
   }
 ]
