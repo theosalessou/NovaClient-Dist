@@ -1,28 +1,8 @@
 {
-  "version": "2.0.0-beta.5",
+  "download": [],
+  "version": "2.0.0-beta.6",
   "server": true,
   "client": true,
-  "download": [
-    "avcodec-61.dll",
-    "avformat-61.dll",
-    "avutil-59.dll",
-    "DDNet-Preview.dll",
-    "discord_game_sdk.dll",
-    "libcurl.dll",
-    "libfreetype.dll",
-    "libogg.dll",
-    "libopus.dll",
-    "libopusfile.dll",
-    "libpng16-16.dll",
-    "libwavpack-1.dll",
-    "libwinpthread-1.dll",
-    "SDL2.dll",
-    "sqlite3.dll",
-    "steam_api.dll",
-    "swresample-5.dll",
-    "swscale-8.dll",
-    "vulkan-1.dll",
-    "zlib1.dll"
-  ],
+  "package": "NovaClient-2.0.0-beta.6-win64.zip",
   "remove": []
 }
