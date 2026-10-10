@@ -1,10 +1,1 @@
-[
-  {
-    "server": true,
-    "version": "2.1.0-beta.40",
-    "remove": [],
-    "client": true,
-    "package": "NovaClient-2.1.0-beta.40-win64.zip",
-    "download": []
-  }
-]
+{"client":true,"download":[],"version":"2.1.0-beta.40","remove":[],"server":true,"package":"NovaClient-2.1.0-beta.40-Cinematic-AD-Update-win64.zip"}
