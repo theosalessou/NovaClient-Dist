@@ -1,0 +1,14 @@
+[
+  {
+    "version": "2.2.8",
+    "serial": 78,
+    "package": "NovaClient-2.2.8-linux-x86_64-20261031-113709.zip",
+    "sha256": "cab96ea8e007b6e50cb21d0368d0e4049200074f9301f2d22cf9f69e00c78147",
+    "signature": "cc8819c2fb4f2f298aa3c247bf8711234d179e0edf7ec390966d389898a5085d9032cb2a3e72edb0c735dfd060cd9f4a3ac46d53f79276bdce5586bea9fe1f29",
+    "client": true,
+    "server": false,
+    "download": [],
+    "remove": []
+  }
+]
+
