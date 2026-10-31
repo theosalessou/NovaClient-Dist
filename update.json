@@ -1,14 +1,1 @@
-[
-  {
-    "version": "2.2.7",
-    "serial": 76,
-    "package": "NovaClient-2.2.7-win64.zip",
-    "sha256": "a70fe27e77da69d22ee7186ca002d84ade305029588646315aaf58655fc4afad",
-    "signature": "544f96f7b568cd97208bef1778feac550b1254a92f4bdc2ce60c6982932e8cb638848ea7c49479827878d28afe84b26c215931d78153afbd36042c286a514fac",
-    "client": true,
-    "server": true,
-    "download": [],
-    "remove": []
-  }
-]
-
+[{"version": "2.2.8", "serial": 78, "package": "NovaClient-2.2.8-win64.zip", "sha256": "699c54b5a46ae304c72b4b6a84b7cc026742dcf44ae07c970f18f77f5421e538", "signature": "86cc95789425a59469329d0df7d542ea63f32f35d9c810bf5fbf972c82b3fc4e1279ad994d5c220384b783e7561dffa6220f2807f64dc8a5e6ae1e4a72946357", "client": true, "server": true, "download": [], "remove": []}]
