@@ -1,10 +1,10 @@
 [
   {
-    "version": "2.2.9",
-    "serial": 79,
-    "package": "NovaClient-2.2.9-linux-x86_64-20261101-213849.zip",
-    "sha256": "bf7af164f1450f7225ba17fc731ef287e29ed605de972418a7697e3ce65d692f",
-    "signature": "559526e2953c2b81de2c7416fcfe00e00b5e28718867c78592ddcbc82a7feb2d104a0e19a4e19c38733309660869c8451403aff92dfd43aa58203fb6a2b7ab37",
+    "version": "2.2.9.2",
+    "serial": 84,
+    "package": "NovaClient-2.2.9.2-linux-x86_64.zip",
+    "sha256": "07237a125a2a98d9d9640dd43aa866f7cc3466fee9976223c632e145ea97286c",
+    "signature": "dae951b22051f061db4a15c647158bf5a1e1421f2ac9ead0f68790c9ac5f6c79960815a9b89e1ee6b87eb80ceb1617a009f6beeaa6399a4654117d58cefc0e36",
     "client": true,
     "server": false,
     "download": [],
